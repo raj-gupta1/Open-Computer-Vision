@@ -1,4 +1,7 @@
 # Open-Computer-Vision
+<h1>Different Open Computer Vision Projects</h1>
+
+
 <h2>Object Detection using Open Computer Vision with mediapipe</h2>
 <br>
 1. Face detection<br>
